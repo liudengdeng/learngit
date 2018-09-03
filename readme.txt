@@ -5,3 +5,4 @@ git 回退.
 create a new branch is quick.
 Creating a new branch is quick AND simple.
 add first message.
+add two message.
